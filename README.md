@@ -10,15 +10,14 @@
 <h2 align="left"> 📊 Stats and Activity</h2>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="codenceX's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=codence-x&theme=monokai-metallian&hide_border=true&short_numbers=true" height="192px"/>
+    <img alt="codenceX's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=codence-x&theme=react&hide_border=true&short_numbers=true&title_color=16E9DB" height="192px"/>
 </a>
 
 <h3>💻 GitHub Profile Stats</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="codenceX's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=codence-x&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="codenceX's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codence-x&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+    <img alt="codenceX's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=codence-x&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=16E9DB&icon_color=F8D866" height="192px"/>
+</a><a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="codenceX's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codence-x&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=16E9DB&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 </a>
 
