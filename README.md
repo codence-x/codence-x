@@ -10,8 +10,7 @@
 <h2 align="left"> 📊 Stats and Activity</h2>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="codenceX's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=
-    codence-x&theme=monokai-metallian&hide_border=true&short_numbers=true" height="192px"/>
+    <img alt="codenceX's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=codence-x&theme=monokai-metallian&hide_border=true&short_numbers=true" height="192px"/>
 </a>
 
 <h3>💻 GitHub Profile Stats</h3>
